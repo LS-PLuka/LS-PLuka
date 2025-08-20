@@ -8,7 +8,7 @@ Meu objetivo é me tornar um **Desenvolvedor Back-End** e construir uma carreira
 ---
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pedroluka-dev/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](in/pedroluka-dev/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/CFL5E43CW4XJM1)  
 
 ---
