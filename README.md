@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Luka 👋
+# Pedro Luka
 
 Sou estudante do curso Técnico em Informática para Internet no Instituto Federal de São Paulo (IFSP), com foco em desenvolvimento Back-End.  
 Tenho experiência em projetos utilizando **Java (Spring Boot)** e **JavaScript (Node.js e Express)**, além de conhecimentos em bancos de dados relacionais e não relacionais.  
@@ -8,7 +8,7 @@ Meu objetivo é me tornar um **Desenvolvedor Back-End** e construir uma carreira
 ---
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedroluka-dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/pedroluka-dev/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/CFL5E43CW4XJM1)  
 
 ---
