@@ -8,8 +8,8 @@ Meu objetivo é me tornar um **Desenvolvedor Back-End** e construir uma carreira
 ---
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_LINK_AQUI)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedroluka-dev)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/CFL5E43CW4XJM1)  
 
 ---
 
@@ -26,8 +26,8 @@ Meu objetivo é me tornar um **Desenvolvedor Back-End** e construir uma carreira
 ---
 
 ## GitHub Stats
-![Pedro Luka GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)  
+![Pedro Luka GitHub stats](https://github-readme-stats.vercel.app/api?username=LS-PLuka&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LS-PLuka&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
 
 ---
