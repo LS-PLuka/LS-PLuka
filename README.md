@@ -1,6 +1,6 @@
 # Pedro Luka
 
-Sou estudante do curso **Técnico em Informática para Internet** pelo **Instituto Federal de São Paulo (IFSP)**, com foco em **desenvolvimento Back-End**.  
+Sou estudante do curso **Técnico em Informática para Internet** pelo **Instituto Federal de São Paulo (IFSP)**.  
 Tenho experiência prática em **Java (Spring Boot)** e **JavaScript (Node.js e Express)**, além de sólidos conhecimentos em **bancos de dados relacionais**.  
 Busco evoluir constantemente e construir uma carreira sólida como **Desenvolvedor Back-End**.
 
@@ -30,4 +30,4 @@ Busco evoluir constantemente e construir uma carreira sólida como **Desenvolved
 
 ## Repositórios e Projetos
 
-Sinta-se à vontade para explorar meus projetos. Estou sempre desenvolvendo algo novo e aprimorando minhas habilidades em tecnologia.
+Explore meus repositórios para conhecer meus projetos e acompanhar minha evolução como desenvolvedor.
