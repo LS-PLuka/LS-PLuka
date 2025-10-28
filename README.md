@@ -10,7 +10,9 @@ Busco evoluir constantemente e construir uma carreira sólida como **Desenvolved
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,mysql,postgres,git,docker,linux&theme=dark" /></a>
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=java,spring,jpa,hibernate,js,nodejs,postgres,mysql,git,docker,linux&theme=dark" />
+</a>
 
 </div>
 
