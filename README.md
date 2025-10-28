@@ -1,7 +1,7 @@
 # Pedro Luka
 
 Sou estudante do curso **Técnico em Informática para Internet** pelo **Instituto Federal de São Paulo (IFSP)**.  
-Tenho experiência prática em **Java (Spring Boot)** e **JavaScript (Node.js e Express)**, além de sólidos conhecimentos em **bancos de dados relacionais**.  
+Tenho experiência prática em **Java (Spring Boot, JPA/Hibernate)** e **JavaScript (Node.js com Express e Prisma)**, além de sólidos conhecimentos em **bancos de dados relacionais**.  
 Busco evoluir constantemente e construir uma carreira sólida como **Desenvolvedor Back-End**.
 
 ---
