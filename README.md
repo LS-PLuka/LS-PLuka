@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu GitHub
+# Bem-vindo ao meu GitHub
 
 ## Pedro Luka
 
@@ -8,7 +8,7 @@ Atuo no desenvolvimento de **APIs REST com Spring Boot**, aplicando boas prátic
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,linux,docker&theme=dark" />
