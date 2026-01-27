@@ -4,7 +4,7 @@
 
 Sou formado em **Técnico em Informática para Internet pelo IFSP** e atualmente curso **Análise e Desenvolvimento de Sistemas pela FATEC**.
 
-Atuo principalmente com **Java e Spring Boot** no desenvolvimento de **APIs REST**, aplicando **autenticação**, **testes unitários** e **padrões de projeto**. Tenho experiência com **PostgreSQL**, **MySQL**, **Git/GitHub** e utilizo **Docker** para conteinerização de aplicações, além de trabalhar com práticas ágeis como **Scrum**.
+Atuo principalmente com **Java e Spring Boot** no desenvolvimento de **APIs REST**, aplicando **autenticação**, **testes unitários** e **padrões de projeto**. Tenho experiência com **PostgreSQL**, **MySQL** e utilizo **Docker** para conteinerização de aplicações, além de trabalhar com práticas ágeis como **Scrum**.
 
 Ao longo da minha formação, participei de projetos práticos voltados para soluções reais, sempre buscando **código limpo**, **organização** e **boas práticas de backend**.
 
