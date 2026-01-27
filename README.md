@@ -2,9 +2,11 @@
 
 ## Pedro Luka
 
-Sou **Técnico em Informática para Internet** formado pelo **Instituto Federal de São Paulo (IFSP)**, com foco em **Desenvolvimento Back-End em Java**.
+Sou formado em **Técnico em Informática para Internet pelo IFSP** e atualmente curso **Análise e Desenvolvimento de Sistemas pela FATEC**.
 
-Atuo no desenvolvimento de **APIs REST com Spring Boot**, aplicando boas práticas, **testes unitários**, **autenticação**, **tratamento de exceções** e integração com **bancos de dados relacionais**. Busco evoluir constantemente como desenvolvedor e construir uma carreira sólida na área de tecnologia.
+Atuo principalmente com **Java e Spring Boot** no desenvolvimento de **APIs REST**, aplicando **autenticação**, **testes unitários** e **padrões de projeto**. Tenho experiência com **PostgreSQL**, **MySQL**, **Git/GitHub** e utilizo **Docker** para conteinerização de aplicações, além de trabalhar com práticas ágeis como **Scrum**.
+
+Ao longo da minha formação, participei de projetos práticos voltados para soluções reais, sempre buscando **código limpo**, **organização** e **boas práticas de backend**.
 
 ---
 
@@ -16,8 +18,6 @@ Atuo no desenvolvimento de **APIs REST com Spring Boot**, aplicando boas prátic
 
 ---
 
-## 📂 Repositórios e Projetos
+## Repositórios e Projetos
 
-Sinta-se à vontade para **explorar meus repositórios** e conhecer meus projetos, onde aplico na prática conceitos de **Back-End em Java**, arquitetura de APIs e integração com banco de dados.
-
-Para mais informações sobre minha trajetória profissional, acesse meu **LinkedIn**.
+Sinta-se à vontade para **explorar meus repositórios** e conhecer meus projetos, onde aplico na prática conceitos de **Back-End em Java**, **arquitetura de APIs** e **integração com banco de dados**.
