@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu GitHub
+# Bem-vindo ao meu GitHub
 
 ## Pedro Luka
 
@@ -12,7 +12,7 @@ Ao longo da minha formação, participei do desenvolvimento de **projetos práti
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,git,linux,docker&theme=dark" />
@@ -20,6 +20,6 @@ Ao longo da minha formação, participei do desenvolvimento de **projetos práti
 
 ---
 
-## 📂 Repositórios e Projetos
+## Repositórios e Projetos
 
 Sinta-se à vontade para **explorar meus repositórios**. Neles, aplico na prática conceitos de **Back-End em Java**, **arquitetura de APIs REST**, **integração com bancos de dados** e **boas práticas de desenvolvimento profissional**.
